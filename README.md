@@ -1,1 +1,0 @@
-# sgearsoft.github.io
