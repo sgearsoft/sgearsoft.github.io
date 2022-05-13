@@ -150,3 +150,13 @@
   .disp-bl {
     display: block;
   }
+
+  .i {
+    font-style: italic;
+  }
+
+  .basic {
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+  }
