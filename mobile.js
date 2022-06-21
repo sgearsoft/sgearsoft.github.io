@@ -8,7 +8,7 @@ var computer_style = computer_style1 + computer_style2;
 
 //Определяем стиль для тела
 var mobile_style1 = 'body::before { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(#04a2f4, #007de7); clip-path: circle(10% at left 60%); z-index: 2; }';
-var mobile_style2 = 'body::after { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(#007de7, #262d37); clip-path: circle(8% at right 30%); z-index: 0; }';
+var mobile_style2 = 'body::after { content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(#007de7, #262d37); clip-path: circle(8% at right 35%); z-index: 0; }';
 var mobile_style = mobile_style1 + mobile_style2;
 
 //Находим разрешение экрана
